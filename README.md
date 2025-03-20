@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @naetosuuke
 - 👀 I’m interested in ... Web / iOS app development
-- 🌱 My skills ... Laravel / Classic ASP / Swift  
+- 🌱 My skills ... Laravel / Swift(personal dev)  
